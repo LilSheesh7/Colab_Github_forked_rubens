@@ -1,0 +1,9 @@
+---
+title: "Pull request exercise for report exersice"
+author: "Simon Rüegg"
+date: "2025-03-31"
+output: html_document
+---
+
+Hello Rubens
+I hope you have a great day and accept my pull request for your github repository!
